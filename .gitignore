@@ -1,0 +1,7 @@
+# Ignore large files/folders
+data/
+video/
+outputs/
+traced_model.pt
+yolov7/
+GroundingDINO/
